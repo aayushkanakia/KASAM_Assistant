@@ -1,0 +1,44 @@
+Before installation of the software you will have to install certain packages in order for it to function. The packages to be installed and how install them is provided in points below.
+
+(a) Install pip
+NOTE:--> THE INSTALLATION OF "PIP" IS ONLY FOR THE PEOPLE WHO DO NOT HAVE IT INSTALLED.
+
+Further requirements:-->
+
+1)Install DateTime
+command = pip install datetime
+
+2)Install win10toast
+command = pip install win10toast
+
+3)Install speech recognition
+command = pip install SpeechRecognition 
+
+4) Install Selenium
+command = pip install selenium
+
+5)Install os
+command = pip install os-sys
+
+6)Install gtts
+command = pip install gtts
+
+7)Install playsound
+command = pip install playsound
+
+8)Install wolframalpha
+command = pip install wolframalpha
+
+9)Download PyAudio
+Installation for PyAudio is a little complicated and a manual process. Find it below:
+	(a)Go to https://www.lfd.uci.edu/~gohlke/pythonlibs/ and search for PyAudio.
+	(b)Download PyAudio according to your system and python requirements.
+	(c)Open the terminal in the folder where the PyAudio file is downloaded.(It will be in a .whl format)
+	(d)Type in command = "pip install <file_name>.whl"
+	(e)Installation will begin. If it shows an error then you have note downloaded the correct file according your system and pythin 	requirements.
+
+Run all these commands in the termninal. BEAWARE TO TYPE IN CORRECT SPELLINGS AND WORDS SHOULD BE WRITTEN AS PER THE LOWERCASE AND UPPERCASE AS GIVEN ABOVE.
+
+Basic functions are already encoded in the Virtual_Assistant.py file you can change or add your own commands if you know how to code.
+
+
